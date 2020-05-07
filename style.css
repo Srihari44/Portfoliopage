@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 32%, rgba(0,212,255,1) 100%);
+    color: antiquewhite;
+}
+#switch{
+    text-decoration: underline;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.prf-pic{
+    height: 200px;
+    width: auto;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+    border: 2px solid;
+    border-radius: 10%;
+}
